@@ -1,3 +1,3 @@
 # Portfolio
 Puedes acceder a la vista web desde este enlace:
-https://app.powerbi.com/view?r=eyJrIjoiZjk3NjZlMmQtZGY0OC00MTJjLWIzNGItNzkzYThhOWU0Y2YzIiwidCI6IjhkYWIyOTY1LTkwZjUtNDM1NC1iODZhLTdkZDk2MmNhMGM1NSJ9
+https://app.powerbi.com/view?r=eyJrIjoiZjk3NjZlMmQtZGY0OC00MTJjLWIzNGItNzkzYThhOWU0Y2YzIiwidCI6IjhkYWIyOTY1LTkwZjUtNDM1NC1iODZhLTdkZDk2MmNhMGM1NSJ9&pageName=ReportSection6f9c8fe17b1c25529807
